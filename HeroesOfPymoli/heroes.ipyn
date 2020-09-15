@@ -1,3 +1,0 @@
-print("Total Number of Players:" len(purchase_data["SN"].value_counts()))
-print("Number of Unique Items:" len(purchase_data["SN"].value_counts()))
-print("Average Purchase Price:" purchase_data["Price"].mean()))
